@@ -1,0 +1,12 @@
+{
+  "main": {
+    "css": "main.css",
+    "js": "main.js"
+  },
+  "cms": {
+    "js": "cms.js"
+  },
+  "": {
+    "keep": "fonts/.keep"
+  }
+}
