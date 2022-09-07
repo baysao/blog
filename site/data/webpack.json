@@ -1,0 +1,12 @@
+{
+  "main": {
+    "css": "main.fb27d.css",
+    "js": "main.fb27d.js"
+  },
+  "cms": {
+    "js": "cms.fb27d.js"
+  },
+  "": {
+    "keep": "fonts/.keep"
+  }
+}
