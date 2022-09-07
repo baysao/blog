@@ -2,7 +2,7 @@
 title: "test1"
 summary: Read Install and Update instructions here
 date: 2021-01-20
-series: ["Rust"]
+series: ["Rust111"]
 weight: 1
 aliases: ["/test1"]
 tags: ["rust"]
