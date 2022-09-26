@@ -27,4 +27,3 @@ cmake .
 cmake --build .
 sudo cp src/lldb-mi /usr/bin/
 ```
-

@@ -11,12 +11,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to tell cargo to use nightly ?</title>
+      <link>/posts/rust/cargo-toolchain/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rust/cargo-toolchain/</guid>
+      <description>How to tell cargo to use nightly ?</description>
+    </item>
+    
+    <item>
       <title>Install LLDB-mi in ubuntu 20.04</title>
       <link>/posts/rust/lldb-mi/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/rust/lldb-mi/</guid>
       <description>Install LLDB-mi in ubuntu 20.04</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/rust/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rust/test/</guid>
+      <description>———– ———
+PLC Network &amp;lt;——&amp;gt; PLC &amp;lt;—=——— cRED c707 ———– —-—-+ | ^ |
++—————- —————–+ v v v v ———- —-–– ——-—+ —–—–+ Windows clients
+—- —- Database &amp;lt;—–&amp;gt; Shared &amp;lt;—-&amp;gt; Executive &amp;lt;-=–&amp;gt; Operator +&amp;lt;—-&amp;gt; cYEL . . . cYEL c707 Memory c707 Server –—-– |{d} cGRE | ———-+ | c707 | —- —- ^ ^ ———- ^ ——-—+
+——–=————————– v ——–——–+
+Millwide System ——– Data ——— cBLU –----- Signals ---– —————–</description>
     </item>
     
     
