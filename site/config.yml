@@ -95,7 +95,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/baysao/blog/tree/main/content"
+        URL: "https://github.com/baysao/blog/blob/main/site/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

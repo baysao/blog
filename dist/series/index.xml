@@ -19,14 +19,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Rust</title>
-      <link>/series/rust/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/series/rust/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
