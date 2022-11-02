@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>UTXO vs Account</title>
+      <link>/posts/blockchain/utxo_vs_account/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/blockchain/utxo_vs_account/</guid>
+      <description>UTXO vs Account</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/posts/rust/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
